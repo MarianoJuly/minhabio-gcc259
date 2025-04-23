@@ -1,6 +1,4 @@
-# minhabio-gcc259
-
-# Júlio Mariano
+# Júlio Mariano-gcc259
 
 **Desenvolvedor Full Stack**  
 📍 Barbacena - MG, Brasil  
