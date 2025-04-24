@@ -1,5 +1,7 @@
 # Júlio Mariano-gcc259
 
+<img src="coragem.jpg" alt="coragem" width="500" height="600">
+
 **Desenvolvedor Full Stack**  
 📍 Barbacena - MG, Brasil  
 
